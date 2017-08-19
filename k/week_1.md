@@ -1,7 +1,5 @@
 # Week One
 
----
-
 ## Monday
 
 - Math: Word problem Ten frame worksheet Number work 15-25
