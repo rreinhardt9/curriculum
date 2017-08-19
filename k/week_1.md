@@ -8,8 +8,6 @@
 - Reading: A book
 - Science: some experiments
 
----
-
 ## Tuesday
 
 - Math: aastastasdfp
